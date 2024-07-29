@@ -1,2 +1,3 @@
 # Redes-Neuronales-EEGnet
-Conjunto de aplicaciones de EEGnet en creación de modelos de Deep Learning 
+-- Neuronal-Networks-EEGnet --
+EEGnet's suite of applications in Deep Learning Modelling 
